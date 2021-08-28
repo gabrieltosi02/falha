@@ -1,0 +1,16 @@
+body {
+    background-image: url(imagemfundo.png);
+}
+
+h1,h2,h3 {
+    text-decoration: lightseagreen;
+    font-size: xx-large;
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p1,p2,p3 {
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
